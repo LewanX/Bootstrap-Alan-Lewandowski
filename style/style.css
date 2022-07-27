@@ -1,0 +1,15 @@
+
+.image_logo{
+    width: 5rem;
+    height: 5rem;
+}
+.img_size{
+    width: 15rem;
+}
+.gallery{
+    max-width: 100%;/*al agregarlo quito el espaciado que genera la clase row*/
+}
+.title{
+    z-index: 1;
+    position: absolute;
+}
